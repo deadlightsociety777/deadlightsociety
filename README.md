@@ -1,1 +1,2 @@
 # deadlightsociety
+assets/logo.png
